@@ -21,10 +21,10 @@
   <tr>
     <td valign="top" width="40%">
       
-An amateur developer who loves the front end.
+一个业余的爱好前端的开发者
 - 💬 了解更多 [主页](https://www.yangjie.site/)
 - 😄 联系我 [Email](mailto:ok@yangjie.site)
-- 🌱 I want to learn more front-end knowledge, although I am not a major in this field.
+- 🌱 我想学习更多前端知识，尽管我不是这个专业的
       
     </td>
     <td valign="top">
@@ -37,6 +37,6 @@ An amateur developer who loves the front end.
 
 ----
  
-Welcome to visit.
+欢迎到访
 
 <img src="https://count.getloli.com/get/@Maluns?theme=rule34" alt="Maluns" />
