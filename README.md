@@ -21,10 +21,10 @@
   <tr>
     <td valign="top" width="40%">
       
-A lovely web developer based in China.
+An amateur developer who loves the front end.
 - 💬 了解更多 [主页](https://www.yangjie.site/)
 - 😄 联系我 [Email](mailto:ok@yangjie.site)
-- 🌱 I’m currently learning ts and more
+- 🌱 I want to learn more front-end knowledge, although I am not a major in this field.
       
     </td>
     <td valign="top">
