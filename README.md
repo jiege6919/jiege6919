@@ -22,11 +22,6 @@
 - 👍 了解更多 [主页](https://www.yangjie.site/)
 - Ⓜ️ 联系我 [Email](mailto:ok@yangjie.site)
 - 🌱 我想学习更多前端知识，尽管我不是这个专业的
-
----
-<div align="center">
-        <img align="right" src="https://github-readme-stats.vercel.app/api?username=jiege6919&show_icons=true&count_private=true&hide=prs&theme=material-palenight&hide_border=true"/>
-      </div>
       
 
 ### 欢迎到访
